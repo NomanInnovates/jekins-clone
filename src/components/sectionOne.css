@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Nunito:wght@300;400;600;700;800;900&display=swap');
+.page-title{
+font: bold 4rem 'sans-serif';
+margin-top:27px;
+}
+.log-big{
+    width: 250px;
+}
+.section-one{
+    background: #F8F9FB;
+    color:#4A5568;
+}
+/* section two */
+.carousel-by-me{
+    background: url(assets/images/cdf-background-wide.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 450px;
+}
+.carousel-item .row{
+    margin-top: 5rem;
+}
+.slide-img{
+    display: block;
+    margin:0 auto ;
+}
+/* boxjs */
+.boxess{
+    margin:50px 0;
+}
+.box-setting{
+    display: flex;
+    padding: 20px;
+}
+.box-img{
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #168BB9;
+    height: fit-content;
+}
+.box-img img{
+    width: 30px;
+}
+.box_desc{
+    font-family:'lato', 'Roboto', "Open Sans", sans-serif;
+font-weight:400;
+font-size:13px;
+line-height:19px;
+color:#4a5568
+}
+.box-title{
+    font-family: 'Lato','Roboto', "Open Sans", sans-serif;
+    font-weight:500;
+font-size:18px;
+line-height:23px;
+color:#4a5568
+}
+.box-sub-text{
+    font-size: 13px;
+    line-height: 19px;
+    color:#4a5568;
+}
